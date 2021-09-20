@@ -1,28 +1,5 @@
 # School_District_Analysis
 
-The school district summary will be a high-level snapshot of the district's key metrics:
-
-Total number of students
-- 39,170
-Total number of schools
-- 15
-Total budget
-- $24,649,428
-Average math score
-- 81.87784018381414
-Average reading score
-- 78.98537145774827
-Percentage of students who passed math
-- 29,370 / 39,170 = 74.98%
-Percentage of students who passed reading
-- 33610 / 39170 = 85.80%
-Overall passing percentage
-- 65.17%
-
-
-
-
-
 ## Overview of the school district analysis:
 
 The purpose of this jupiter notebook analysis is to present an overview of key metrics betweem student and school data. Data from two .csv files were read, cleaned, and merged using Python to create tables. The student data was matched to the school to calculate math/reading scores and provide insights about each school's size, budget, and type.
